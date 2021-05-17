@@ -1,0 +1,11 @@
+/* External Sheet Styling */
+/* Selectors */
+/* element selector */
+body{
+    background-color: gray;
+}
+/* class selector */
+.heading{
+    color: white;
+    font-style: italic;
+}
